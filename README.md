@@ -2,14 +2,23 @@
 
 Some Description!
 **Repo cloned from github**
+
 **ls -la we can see all hidden files**
+
 **git status provides the data on diff files present**
+
 **git add . is used to track all files in git**
+
 **git commit -m "name of the update" -m "description on update" is used to save the changes in git locally**
+
 **git push is used to push(or)save the code to a remote repository such as github**
+
 **ssh-keygen -t -rsa -b 4096 -C "email@example.com" is used to prove github that you are the real user, a key is generated specifically for the local machine in order to push the file into github** 
+
 **git push origin main**
+
 **cd ../"name of the directory needed to go" is the command**
+
 
 
 **Repo from local machine**
