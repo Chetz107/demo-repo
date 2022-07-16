@@ -42,7 +42,7 @@ Some Description!
 
 **git checkout -b feature-readme creates new branch named feature-readme**
 
-**git checkout -d feature-readme deletes branch named feature-readme**
+**git branch -d feature-readme deletes branch named feature-readme**
 
 **git diff branchname shows the changes in the branch**
 
