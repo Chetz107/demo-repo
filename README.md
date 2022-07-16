@@ -35,4 +35,18 @@ Some Description!
 
 ## Subheader
 
+**git branch shows the branches**
+
+
+**git checkout branchname helps in navigating to the branch specified**
+
+**git checkout -b feature-readme creates new branch named feature-readme**
+
+**git checkout -d feature-readme deletes branch named feature-readme**
+
+**git diff branchname shows the changes in the branch**
+
+**git merge branchname from main, merges the changes in to the main branch**
+
+**git pull from github to local machine, pr is done in github** 
 Let's Do it.
