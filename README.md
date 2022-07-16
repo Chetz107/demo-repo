@@ -1,7 +1,7 @@
 # Demo
 
 Some Description!
-**Repo cloned from github**
+## Repo cloned from github
 
 **ls -la we can see all hidden files**
 
@@ -21,11 +21,16 @@ Some Description!
 
 
 
-**Repo from local machine**
+## Repo from local machine
+
 **git init makes a file into git repository**
+
 **git remote add origin onlinerepolink adds it into the remote repo**
+
 **git remote -v command shows any remote repos connected to the local repo**
+
 **git push origin master can be used now**
+
 **git push -u origin master can be used to make a shortcut(upstream) of typing only git push to push the file into the origin repo**
 
 ## Subheader
