@@ -49,6 +49,17 @@ Some Description!
 **git merge branchname from main, merges the changes in to the main branch**
 
 **git pull from github to local machine, pr is done in github** 
+
+**git commit -am "msg" command can be used to adding & committing at the same time, it works only for "modified" files**
+
+**cd foldername is used to go to diff folders**
+
+**cd ../"filename" to go different file in diff folder or to go back a folder**
+
+**git reset HEAD resets the last step if Head-1 is taken then 1 step back of last step.i.e, 2 steps wil be reset back**
+
+**git rest --hard linkofcommit removes completely without any staging**
+
 Let's Do it.
 
 Have Fun.
